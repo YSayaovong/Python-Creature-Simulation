@@ -1,25 +1,12 @@
-# TheCreature
+# Game AI: The Creature
 
-This repository contains a Python script named `TheCreature.py`, which is part of a creative project designed for exploring Python programming concepts.
+## What I Did
+I created a simple 2D game featuring an AI-driven creature capable of decision-making and interacting with the player in a dynamic environment.
 
-## Contents
+## Why I Did This Project
+I wanted to learn more about game development and AI algorithms, combining my interests in coding and interactive design to build a fun and engaging project.
 
-- **TheCreature (`TheCreature.py`)**: A Python script that represents a creative programming project involving a fictional creature.
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YSayaovong/TheCreature.git
-
-## Run the script:
-cd TheCreature
-python TheCreature.py
-
-## Contributing
-Contributions are welcome! Feel free to fork the repository, enhance the script, and create a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-You can copy and paste this into your README file.
+## What I Accomplished
+- Built an interactive 2D game using Pygame.
+- Applied AI principles for decision-making based on environmental inputs.
+- Improved my skills in Python programming and game design.
