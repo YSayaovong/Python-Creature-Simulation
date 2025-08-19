@@ -1,12 +1,20 @@
-# Game AI: The Creature
+# Python Creature Simulation
 
-## What I Did
-I created a simple 2D game featuring an AI-driven creature capable of decision-making and interacting with the player in a dynamic environment.
+A Python-based software engineering project that simulates the behavior and interactions of a virtual "creature."  
+This project was originally structured like a game but is designed to demonstrate **object-oriented programming, algorithmic design, and AI-inspired decision-making** in Python.
 
-## Why I Did This Project
-I wanted to learn more about game development and AI algorithms, combining my interests in coding and interactive design to build a fun and engaging project.
+---
 
-## What I Accomplished
-- Built an interactive 2D game using Pygame.
-- Applied AI principles for decision-making based on environmental inputs.
-- Improved my skills in Python programming and game design.
+## 🚀 Features
+- **Object-Oriented Design**: The creature is modeled with attributes such as health, energy, and actions.
+- **Behavior Simulation**: The creature can perform activities like eating, moving, or resting, each impacting its internal state.
+- **Rule-Based AI**: Decision-making logic determines the creature’s next action based on current conditions.
+- **Customizable Parameters**: Users can modify attributes (energy consumption, recovery rate, etc.) to test different outcomes.
+- **Console-Based Interface**: Simple, lightweight simulation without reliance on external graphics libraries.
+
+---
+
+## 🛠️ Tech Stack
+- **Language**: Python 3.x  
+- **Paradigm**: Object-Oriented Programming  
+- **Tools Used**: Standard Python libraries  
