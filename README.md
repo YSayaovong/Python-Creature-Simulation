@@ -1,20 +1,17 @@
-# Python Creature Simulation
+## 🐉 Hybrid Creature Generator
 
-A Python-based software engineering project that simulates the behavior and interactions of a virtual "creature."  
-This project was originally structured like a game but is designed to demonstrate **object-oriented programming, algorithmic design, and AI-inspired decision-making** in Python.
-
----
+- A Python-based program that creates a hybrid creature by merging two user-provided names and generating random attributes.
+- This project demonstrates string manipulation, randomization, input/output handling, and ASCII art rendering in Python.
 
 ## 🚀 Features
-- **Object-Oriented Design**: The creature is modeled with attributes such as health, energy, and actions.
-- **Behavior Simulation**: The creature can perform activities like eating, moving, or resting, each impacting its internal state.
-- **Rule-Based AI**: Decision-making logic determines the creature’s next action based on current conditions.
-- **Customizable Parameters**: Users can modify attributes (energy consumption, recovery rate, etc.) to test different outcomes.
-- **Console-Based Interface**: Simple, lightweight simulation without reliance on external graphics libraries.
 
----
+- Hybrid Name Creation: Combines two creature names into a new hybrid.
+- Randomized Attributes: Generates a random weight (100–2000 lbs) and selects a diet from predefined options.
+- ASCII Art Feedback: Displays a checkmark graphic to confirm successful creation.
+- Interactive Console Program: Prompts users for input and displays results directly in the terminal.
 
 ## 🛠️ Tech Stack
-- **Language**: Python 3.x  
-- **Paradigm**: Object-Oriented Programming  
-- **Tools Used**: Standard Python libraries  
+
+- Language: Python 3.x
+- Libraries Used: random (standard library)
+- Interface: Console-based (no external dependencies)
